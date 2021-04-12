@@ -1,0 +1,10 @@
+pip install keras==2.4.3
+pip install imutils==0.5.4
+pip install numpy==1.19.5
+pip install opencv-python==4.5.1.*
+pip install matplotlib==3.4.1
+pip install argparse==1.4.0
+pip install scipy==1.6.2
+pip install scikit-learn==0.24.1
+pip install pillow==8.2.0
+pip install streamlit==0.79.0
