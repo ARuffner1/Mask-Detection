@@ -1,0 +1,8 @@
+#Instruction for requirements needed to run python code on Raspberry Pi
+#The first thing to do on the Raspberry Pi is the install the required python modules. The required python modules and commands used to install them can be found in the "Required Modules" file.
+#After those modules are installed, tensorflow needs to be installed on the Pi. Since the newer Tensorflow versions are not natively offered on the Pi, it must be installed manually.
+#To install Tensorflow onto the Pi, I follow this video: https://www.youtube.com/watch?v=GNRg2P8Vqqs
+#The only thing that needs to be changed is the version of Tensorflow that needs to be downloaded and installed. 
+#The version that was used by our group was version 2.4.0. The github link for the install is https://github.com/lhelontra/tensorflow-on-arm/releases/download/v2.4.0/tensorflow-2.4.0-cp37-none-linux_armv7l.whl
+#This change will also need to be reflected in the step to install tensorflow. all the needs to be changes in the command provided in the video is to change v2.0.0 to v.2.4.0
+#Once tensorflow is installed, the python files should be be able to run.

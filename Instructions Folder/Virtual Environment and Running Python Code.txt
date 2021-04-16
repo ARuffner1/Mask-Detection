@@ -1,0 +1,8 @@
+#Instructions to initialize the Virtual Environment on the Pi
+
+1)Open terminal
+2)Enter 'cd Desktop/tf_pi' into terminal
+3)Enter 'source tfenv/bin/activate' into terminal
+
+#This will start up the virual environment that has all the necesary dependencies for the python code to run off of.
+#To run the python code that is in the directory, all you need to do is type 'python3 *file name*.py'. 
